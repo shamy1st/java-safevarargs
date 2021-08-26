@@ -1,2 +1,5 @@
-# java-safevarargs
-Java @Safevarargs Annotation
+# Java @Safevarargs Annotation
+
+
+## Ref
+* https://www.baeldung.com/java-safevarargs
